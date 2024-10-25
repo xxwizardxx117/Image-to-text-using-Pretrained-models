@@ -1,3 +1,6 @@
+# This Project has been updated a lot and will me update here in a due amount of time 
+
+
 # Image to Text application using AI Models
 
 `Models used` :
