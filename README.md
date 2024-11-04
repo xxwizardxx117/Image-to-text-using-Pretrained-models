@@ -1,5 +1,4 @@
-# This Project has been updated a lot and will me update here in a due amount of time 
-
+# This Project has been updated a lot and move to new repository [link here]()
 
 # Image to Text application using AI Models
 
