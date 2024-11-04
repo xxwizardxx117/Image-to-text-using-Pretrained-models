@@ -1,4 +1,4 @@
-# This Project has been updated a lot and move to new repository [link here]()
+# This Project has been updated a lot and move to new repository [link here](https://github.com/xxwizardxx117/Visionary-Scribe/tree/main)
 
 # Image to Text application using AI Models
 
